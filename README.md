@@ -1,2 +1,2 @@
 # 1st-delta
-this first project on github.
+this first project on github
